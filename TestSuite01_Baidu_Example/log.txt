@@ -1,0 +1,8 @@
+F TestSuite01_Baidu_Example/test_search1.py
+ test_search1.py:13: in <module>
+     from UTest_Baidu  import Baidu
+ E   ImportError: No module named UTest_Baidu
+. test_init.py::Test::test_init
+. TestSuite01_Baidu_Example/test_homepage1.py::Test::test_baidu_homepage1
+. TestSuite01_Baidu_Example/test_homepage2.py::Test::test_baidu_homepage1
+. test_end.py::Test::test_end

@@ -35,7 +35,8 @@ if __name__ == '__main__':
     
     Run_Case = [
                 "test_homepage1.py",
-                "test_homepage2.py"
+                "test_homepage2.py",
+				"test_search1.py"
                 ]
     
     Run_Suite = "TestSuite01_Baidu_Example"
